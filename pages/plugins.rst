@@ -24,7 +24,7 @@ Creating a plugin skeleton
 ==========================
 
 The easiest way to get started is to use our `maven archetype <http://maven.apache.org/guides/introduction/introduction-to-archetypes.html>`_
-that will create a complete plugin project infrastructure will all required classes, build definitions, and configurations using an interactive wizard.
+that will create a complete plugin project infrastructure with all required classes, build definitions, and configurations using an interactive wizard.
 
 Maven is a Java widely used build tool that comes pre-installed on many operating systems or can be installed using most package managers. Make sure that it
 is installed with at least version 3 before you go on.
